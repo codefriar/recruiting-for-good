@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>V2MOM__c</fullName>
+    <externalId>false</externalId>
+    <label>V2MOM</label>
+    <referenceTo>V2MOM__c</referenceTo>
+    <relationshipLabel>V2MOM Components</relationshipLabel>
+    <relationshipName>V2MOM_Components</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
